@@ -2,7 +2,7 @@
 
 ```
 cd contest_tools
-python setup.py
+python setup.py install
 ```
 
 ## Usage
