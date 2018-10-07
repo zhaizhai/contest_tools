@@ -1,0 +1,12 @@
+# Compiled files
+*a.out
+*.pyc
+examples/example-submit.cpp
+
+# Packaging files
+build/
+dist/
+*.egg-info/
+
+# Editor files
+*~
